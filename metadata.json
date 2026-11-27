@@ -1,0 +1,6 @@
+{
+  "name": "GestionMagasin Pro",
+  "description": "Gestion de stock, scan OCR/code-barres ML Kit, planches d'etiquettes DOCX/XLSX et rapports de tickets de caisse hors-ligne pour les magasins ORCA DECO a Abidjan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
